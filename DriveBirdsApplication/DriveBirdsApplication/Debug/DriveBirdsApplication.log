@@ -1,0 +1,70 @@
+﻿  stdafx.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  TraceLog.cpp
+  mscomm1.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  DriveBirdsCenter.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(1873): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(3519): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(635): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(635): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(635): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(635): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(647): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(654): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(661): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(691): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(691): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(691): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(691): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(704): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(712): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(739): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(739): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(739): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(739): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(750): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(780): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(780): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(780): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(780): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(793): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(801): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(829): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(829): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(829): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(829): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(842): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\drivebirdsapplication\drivebirdscenter.cpp(850): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+  DriveBirdsApplicationDlg.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  DriveBirdsApplication.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  commonused.cpp
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(1873): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(3519): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commonused.cpp(837): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commonused.cpp(877): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commonused.cpp(924): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commonused.cpp(988): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commonused.cpp(1024): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commonused.cpp(1031): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commonused.cpp(1050): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commonused.cpp(1087): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  CommBusDefinition.cpp
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(1873): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(3519): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commbus\commbusdefinition.cpp(111): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commbus\commbusdefinition.cpp(112): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+d:\zoolon\project\驱鸟\code\drivebirdsapplication\include\commbus\commbusdefinition.cpp(117): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+  CommBusClient.cpp
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(1873): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(3519): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+  Generating Code...
+  DriveBirdsApplication.vcxproj -> D:\Zoolon\project\驱鸟\code\DriveBirdsApplication\Debug\DriveBirdsApplication.exe

@@ -1,0 +1,11 @@
+{'traceTime':'2018-12-02 18:20:30','traceLevel':'indication','logString':'Enter registerToCommBus, host: 127.0.0.1, instance name: server2......'}
+{'traceTime':'2018-12-02 18:20:30','traceLevel':'indication','logString':'Connect commbus on 127.0.0.1......'}
+{'traceTime':'2018-12-02 18:20:31','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2018-12-02 18:20:36','traceLevel':'indication','logString':'Enter registerToCommBus, host: 127.0.0.1, instance name: server2......'}
+{'traceTime':'2018-12-02 18:20:36','traceLevel':'indication','logString':'Connect commbus on 127.0.0.1......'}
+{'traceTime':'2018-12-02 18:20:37','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2018-12-02 18:20:42','traceLevel':'indication','logString':'Enter registerToCommBus, host: 127.0.0.1, instance name: server2......'}
+{'traceTime':'2018-12-02 18:20:42','traceLevel':'indication','logString':'Connect commbus on 127.0.0.1......'}
+{'traceTime':'2018-12-02 18:20:43','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2018-12-02 18:20:48','traceLevel':'indication','logString':'Enter registerToCommBus, host: 127.0.0.1, instance name: server2......'}
+{'traceTime':'2018-12-02 18:20:48','traceLevel':'indication','logString':'Connect commbus on 127.0.0.1......'}

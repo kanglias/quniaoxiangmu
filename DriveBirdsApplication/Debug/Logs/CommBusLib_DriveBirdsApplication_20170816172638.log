@@ -1,0 +1,825 @@
+{'traceTime':'2017-08-16 16:44:15','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:44:15','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:44:16','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:44:21','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:44:21','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:44:22','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:44:27','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:44:27','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:44:28','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:44:33','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:44:33','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:44:34','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:44:40','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:44:40','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:44:41','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:44:46','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:44:46','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:44:47','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:44:52','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:44:52','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:44:53','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:44:58','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:44:58','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:44:59','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:45:04','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:45:04','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:45:05','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:45:11','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:45:11','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:45:12','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:45:17','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:45:17','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:45:18','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:45:23','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:45:23','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:45:24','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:45:29','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:45:29','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:45:30','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:45:35','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:45:35','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:45:36','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:45:41','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:45:41','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:45:42','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:45:48','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:45:48','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:45:49','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:45:54','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:45:54','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:45:55','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:46:00','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:46:00','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:46:01','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:46:06','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:46:06','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:46:07','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:46:12','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:46:12','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:46:13','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:46:18','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:46:18','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:46:19','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:46:25','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:46:25','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:46:26','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:46:31','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:46:31','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:46:32','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:46:37','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:46:37','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:46:38','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:46:43','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:46:43','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:46:44','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:46:49','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:46:49','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:46:50','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:46:55','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:46:55','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:46:56','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:47:02','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:47:02','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:47:03','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:47:08','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:47:08','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:47:09','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:47:14','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:47:14','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:47:15','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:47:20','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:47:20','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:47:21','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:47:26','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:47:26','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:47:27','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:47:32','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:47:32','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:47:33','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:47:39','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:47:39','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:47:40','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:47:45','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:47:45','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:47:46','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:47:51','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:47:51','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:47:52','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:47:57','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:47:57','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:47:58','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:48:03','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:48:03','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:48:04','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:48:10','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:48:10','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:48:11','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:48:16','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:48:16','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:48:17','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:48:22','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:48:22','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:48:23','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:48:28','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:48:28','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:48:29','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:48:34','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:48:34','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:48:35','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:48:41','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:48:41','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:48:42','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:48:47','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:48:47','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:48:48','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:48:53','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:48:53','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:48:54','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:48:59','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:48:59','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:49:00','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:49:05','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:49:05','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:49:06','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:49:11','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:49:11','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:49:12','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:49:18','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:49:18','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:49:19','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:49:24','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:49:24','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:49:25','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:49:30','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:49:30','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:49:31','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:49:36','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:49:36','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:49:37','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:49:42','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:49:42','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:49:43','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:49:48','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:49:48','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:49:49','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:49:55','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:49:55','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:49:56','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:50:01','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:50:01','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:50:02','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:50:07','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:50:07','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:50:08','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:50:13','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:50:13','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:50:14','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:50:19','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:50:19','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:50:20','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:50:25','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:50:25','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:50:26','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:50:32','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:50:32','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:50:33','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:50:38','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:50:38','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:50:39','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:50:44','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:50:44','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:50:45','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:50:50','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:50:50','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:50:51','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:50:56','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:50:56','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:50:57','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:51:02','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:51:02','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:51:04','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:51:09','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:51:09','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:51:10','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:51:15','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:51:15','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:51:16','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:51:21','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:51:21','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:51:22','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:51:27','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:51:27','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:51:28','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:51:33','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:51:33','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:51:34','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:51:40','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:51:40','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:51:41','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:51:46','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:51:46','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:51:47','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:51:52','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:51:52','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:51:53','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:51:58','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:51:58','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:51:59','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:52:04','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:52:04','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:52:05','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:52:10','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:52:10','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:52:11','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:52:17','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:52:17','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:52:18','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:52:23','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:52:23','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:52:24','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:52:29','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:52:29','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:52:30','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:52:35','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:52:35','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:52:36','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:52:41','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:52:41','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:52:42','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:52:48','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:52:48','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:52:49','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:52:54','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:52:54','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:52:55','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:53:00','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:53:00','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:53:01','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:53:06','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:53:06','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:53:07','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:53:12','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:53:12','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:53:13','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:53:18','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:53:18','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:53:19','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:53:25','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:53:25','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:53:26','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:53:31','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:53:31','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:53:32','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:53:37','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:53:37','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:53:38','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:53:43','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:53:43','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:53:44','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:53:49','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:53:49','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:53:50','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:53:55','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:53:55','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:53:57','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:54:02','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:54:02','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:54:03','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:54:08','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:54:08','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:54:09','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:54:14','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:54:14','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:54:15','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:54:20','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:54:20','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:54:21','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:54:26','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:54:26','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:54:27','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:54:32','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:54:32','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:54:33','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:54:39','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:54:39','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:54:40','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:54:45','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:54:45','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:54:46','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:54:51','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:54:51','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:54:52','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:54:57','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:54:57','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:54:58','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:55:03','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:55:03','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:55:04','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:55:09','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:55:09','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:55:10','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:55:16','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:55:16','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:55:17','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:55:22','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:55:22','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:55:23','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:55:28','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:55:28','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:55:29','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:55:34','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:55:34','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:55:35','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:55:40','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:55:40','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:55:41','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:55:47','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:55:47','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:55:48','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:55:53','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:55:53','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:55:54','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:55:59','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:55:59','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:56:00','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:56:05','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:56:05','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:56:06','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:56:11','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:56:11','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:56:12','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:56:17','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:56:17','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:56:18','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:56:24','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:56:24','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:56:25','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:56:30','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:56:30','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:56:31','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:56:36','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:56:36','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:56:37','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:56:42','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:56:42','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:56:43','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:56:48','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:56:48','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:56:50','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:56:55','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:56:55','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:56:56','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:57:01','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:57:01','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:57:02','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:57:07','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:57:07','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:57:08','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:57:13','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:57:13','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:57:14','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:57:19','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:57:19','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:57:20','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:57:26','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:57:26','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:57:27','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:57:32','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:57:32','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:57:33','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:57:38','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:57:38','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:57:39','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:57:44','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:57:44','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:57:45','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:57:51','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:57:51','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:57:52','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:57:57','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:57:57','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:57:58','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:58:03','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:58:03','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:58:04','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:58:09','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:58:09','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:58:10','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:58:15','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:58:15','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:58:16','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:58:21','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:58:21','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:58:23','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:58:28','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:58:28','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:58:29','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:58:34','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:58:34','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:58:35','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:58:40','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:58:40','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:58:41','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:58:46','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:58:46','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:58:47','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:58:52','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:58:52','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:58:53','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:58:59','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:58:59','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:59:00','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:59:05','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:59:05','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:59:06','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:59:11','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:59:11','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:59:12','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:59:17','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:59:17','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:59:18','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:59:23','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:59:23','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:59:24','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:59:29','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:59:29','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:59:30','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:59:36','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:59:36','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:59:37','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:59:42','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:59:42','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:59:43','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:59:48','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:59:48','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:59:49','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 16:59:54','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 16:59:54','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 16:59:55','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:00:00','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:00:00','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:00:01','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:00:06','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:00:06','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:00:07','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:00:13','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:00:13','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:00:14','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:00:19','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:00:19','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:00:20','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:00:25','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:00:25','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:00:26','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:00:31','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:00:31','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:00:32','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:00:37','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:00:37','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:00:38','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:00:43','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:00:43','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:00:44','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:00:50','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:00:50','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:00:51','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:00:56','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:00:56','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:00:57','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:01:02','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:01:02','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:01:03','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:01:08','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:01:08','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:01:09','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:01:14','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:01:14','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:01:15','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:01:20','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:01:20','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:01:21','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:01:27','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:01:27','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:01:28','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:01:33','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:01:33','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:01:34','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:01:39','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:01:39','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:01:40','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:01:45','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:01:45','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:01:46','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:01:51','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:01:51','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:01:52','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:01:57','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:01:57','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:01:59','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:02:04','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:02:04','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:02:05','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:02:10','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:02:10','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:02:11','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:02:16','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:02:16','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:02:17','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:02:22','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:02:22','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:02:23','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:02:28','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:02:28','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:02:29','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:02:35','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:02:35','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:02:36','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:02:41','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:02:41','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:02:42','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:02:47','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:02:47','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:02:48','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:02:53','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:02:53','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:02:54','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:02:59','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:02:59','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:03:00','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:03:05','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:03:05','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:03:07','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:03:12','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:03:12','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:03:13','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:03:18','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:03:18','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:03:19','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:03:24','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:03:24','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:03:25','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:03:30','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:03:30','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:03:31','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:03:36','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:03:36','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:03:37','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:03:43','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:03:43','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:03:44','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:03:49','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:03:49','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:03:50','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:03:55','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:03:55','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:03:56','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:04:01','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:04:01','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:04:02','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:04:07','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:04:07','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:04:08','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:04:13','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:04:13','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:04:14','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:04:20','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:04:20','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:04:21','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:04:26','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:04:26','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:04:27','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:04:32','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:04:32','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:04:33','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:04:38','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:04:38','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:04:39','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:04:44','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:04:44','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:04:45','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:04:51','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:04:51','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:04:52','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:04:57','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:04:57','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:04:58','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:05:03','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:05:03','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:05:04','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:05:09','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:05:09','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:05:10','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:05:15','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:05:15','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:05:16','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:05:21','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:05:21','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:05:22','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:05:28','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:05:28','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:05:29','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:05:34','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:05:34','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:05:35','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:05:40','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:05:40','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:05:41','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:05:46','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:05:46','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:05:47','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:05:52','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:05:52','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:05:53','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:05:58','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:05:58','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:05:59','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:06:05','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:06:05','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:06:06','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:06:11','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:06:11','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:06:12','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:06:17','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:06:17','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:06:18','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:06:23','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:06:23','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:06:24','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:06:29','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:06:29','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:06:30','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:06:35','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:06:35','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:06:36','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:06:42','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:06:42','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:06:43','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:06:48','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:06:48','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:06:49','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:06:54','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:06:54','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:06:55','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:07:00','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:07:00','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:07:01','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:07:06','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:07:06','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:07:07','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:07:12','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:07:12','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:07:13','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:07:19','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:07:19','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:07:20','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:07:25','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:07:25','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:07:26','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:07:31','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:07:31','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:07:32','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:07:37','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:07:37','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:07:38','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:07:43','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:07:43','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:07:44','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:07:49','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:07:49','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:07:50','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:07:56','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:07:56','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:07:57','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:08:02','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:08:02','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:08:03','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:08:08','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:08:08','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:08:09','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:08:14','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:08:14','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:08:15','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:08:20','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:08:20','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:08:21','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:08:27','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:08:27','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:08:28','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:08:33','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:08:33','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:08:34','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:08:39','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:08:39','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:08:40','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:08:45','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:08:45','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:08:46','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:08:51','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:08:51','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:08:52','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:08:57','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:08:57','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:08:58','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:09:04','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:09:04','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:09:05','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:09:10','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:09:10','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:09:11','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:09:16','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:09:16','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:09:17','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:09:22','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:09:22','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:09:23','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:09:28','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:09:28','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:09:29','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:09:34','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:09:34','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:09:35','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:09:41','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:09:41','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:09:42','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:09:47','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:09:47','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:09:48','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:09:53','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:09:53','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:09:54','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:09:59','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:09:59','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:10:00','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:10:05','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:10:05','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:10:06','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:10:11','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:10:11','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:10:12','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:10:17','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:10:17','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:10:19','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:10:24','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:10:24','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:10:25','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:10:30','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:10:30','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:10:31','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:10:36','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:10:36','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:10:37','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:10:42','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:10:42','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:10:43','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:10:48','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:10:48','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:10:49','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:10:54','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:10:54','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:10:55','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:11:01','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:11:01','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:11:02','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:11:07','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:11:07','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:11:08','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:11:13','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:11:13','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:11:14','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:11:19','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:11:19','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:11:20','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:11:25','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:11:25','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:11:26','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:11:32','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:11:32','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:11:33','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:11:38','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:11:38','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:11:39','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:11:44','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:11:44','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:11:45','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:11:50','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:11:50','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:11:51','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:11:56','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:11:56','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:11:57','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:12:03','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:12:03','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:12:04','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:12:09','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:12:09','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:12:10','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:12:15','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:12:15','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:12:16','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:12:21','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:12:21','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:12:22','traceLevel':'indication','logString':'Connect commbus failed!'}
+{'traceTime':'2017-08-16 17:12:27','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 17:12:27','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 17:12:28','traceLevel':'indication','logString':'Connect commbus failed!'}

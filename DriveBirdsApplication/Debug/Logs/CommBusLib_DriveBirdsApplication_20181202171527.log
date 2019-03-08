@@ -1,0 +1,3 @@
+{'traceTime':'2018-12-02 17:04:39','traceLevel':'indication','logString':'Enter registerToCommBus, host: 127.0.0.1, instance name: server2......'}
+{'traceTime':'2018-12-02 17:04:39','traceLevel':'indication','logString':'Connect commbus on 127.0.0.1......'}
+{'traceTime':'2018-12-02 17:04:40','traceLevel':'indication','logString':'Connect commbus failed!'}

@@ -1,0 +1,8 @@
+{'traceTime':'2017-08-16 20:02:29','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 20:02:29','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 20:02:29','traceLevel':'indication','logString':'registerToCommBus success.'}
+{'traceTime':'2017-08-16 20:43:15','traceLevel':'indication','logString':'Socket error, host: 192.168.1.201, instance name: server1'}
+{'traceTime':'2017-08-16 20:43:15','traceLevel':'indication','logString':'Exception occoured, host: 192.168.1.201, instance name: server1!'}
+{'traceTime':'2017-08-16 20:43:15','traceLevel':'indication','logString':'Enter registerToCommBus, host: 192.168.1.201, instance name: server1......'}
+{'traceTime':'2017-08-16 20:43:15','traceLevel':'indication','logString':'Connect commbus on 192.168.1.201......'}
+{'traceTime':'2017-08-16 20:43:15','traceLevel':'indication','logString':'Connect commbus failed!'}

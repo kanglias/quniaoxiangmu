@@ -1,0 +1,73 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  CommBusClient.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\imagehlp.h(1873): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\imagehlp.h(3519): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+  CommBusDefinition.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\imagehlp.h(1873): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\imagehlp.h(3519): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+..\Include\CommBus\CommBusDefinition.cpp(111): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+..\Include\CommBus\CommBusDefinition.cpp(112): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+..\Include\CommBus\CommBusDefinition.cpp(117): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+  commonused.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\imagehlp.h(1873): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\imagehlp.h(3519): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+..\Include\commonused.cpp(837): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+..\Include\commonused.cpp(877): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+..\Include\commonused.cpp(924): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+..\Include\commonused.cpp(988): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+..\Include\commonused.cpp(1024): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+..\Include\commonused.cpp(1031): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+..\Include\commonused.cpp(1050): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+..\Include\commonused.cpp(1087): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  DriveBirdsApplication.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  DriveBirdsApplicationDlg.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  DriveBirdsCenter.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\imagehlp.h(1873): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\imagehlp.h(3519): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+DriveBirdsCenter.cpp(635): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'CString'
+DriveBirdsCenter.cpp(635): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+DriveBirdsCenter.cpp(635): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+DriveBirdsCenter.cpp(635): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'CString'
+DriveBirdsCenter.cpp(647): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+DriveBirdsCenter.cpp(654): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+DriveBirdsCenter.cpp(661): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+DriveBirdsCenter.cpp(691): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'CString'
+DriveBirdsCenter.cpp(691): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+DriveBirdsCenter.cpp(691): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+DriveBirdsCenter.cpp(691): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'CString'
+DriveBirdsCenter.cpp(704): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+DriveBirdsCenter.cpp(712): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+DriveBirdsCenter.cpp(739): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'CString'
+DriveBirdsCenter.cpp(739): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+DriveBirdsCenter.cpp(739): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+DriveBirdsCenter.cpp(739): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'CString'
+DriveBirdsCenter.cpp(750): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+DriveBirdsCenter.cpp(780): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'CString'
+DriveBirdsCenter.cpp(780): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+DriveBirdsCenter.cpp(780): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+DriveBirdsCenter.cpp(780): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'CString'
+DriveBirdsCenter.cpp(793): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+DriveBirdsCenter.cpp(801): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+DriveBirdsCenter.cpp(829): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'CString'
+DriveBirdsCenter.cpp(829): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+DriveBirdsCenter.cpp(829): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+DriveBirdsCenter.cpp(829): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'CString'
+DriveBirdsCenter.cpp(842): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+DriveBirdsCenter.cpp(850): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+  mscomm1.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  TraceLog.cpp
+  Generating code
+  All 569 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DriveBirdsApplication.vcxproj -> Z:\Zoolon\Zoolon\project\驱鸟\code\DriveBirdsApplication\Release\DriveBirdsApplication.exe
+  DriveBirdsApplication.vcxproj -> Z:\Zoolon\Zoolon\project\驱鸟\code\DriveBirdsApplication\Release\DriveBirdsApplication.pdb (Full PDB)
